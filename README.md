@@ -22,11 +22,9 @@ The analysis included:
 - The evidence supported further investigation, but the report avoided overstating suspicious activity as confirmed malicious behavior without corroboration.
 
 ## Files
-- `report/Network-Traffic-Incident-Analysis-and-PCAP-Triage-Report.pdf`
-- `report/Network-Traffic-Incident-Analysis-and-PCAP-Triage-Report.docx`
+https://github.com/hammakjaff-netizen/network-traffic-incident-analysis-pcap-triage-report/blob/220d3facef6d4f8901aa290eec3ba3ed85ee3732/network_traffic_incident_analysis_pcap_triage_report.pdf
 
 ## Notes
 This assessment was conducted in a controlled environment for authorized technical analysis and documentation purposes.
 
-## Author
-Hamma Jaff
+
